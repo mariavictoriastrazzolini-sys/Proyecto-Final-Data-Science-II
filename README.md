@@ -1,4 +1,4 @@
-# customer-churn-ecommerce
+# Proyecto Final Data Science II
 Modelo de Machine Learning para predicción de abandono (churn) de clientes en e-commerce.
 
 **Predicción de Abandono de Clientes (Customer Churn) en E-commerce**
